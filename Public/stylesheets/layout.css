@@ -91,7 +91,7 @@ header .info p {
 /*Intro*/
 
 section#intro {
-	background: url(../images/yourimage.jpg) center center fixed;
+	background: url(../images/latteart_1.jpg) center center fixed;
 	background-color: #9C8979;
 	-webkit-background-size: cover ;
 	background-size: cover ;
@@ -301,7 +301,7 @@ section#features img:hover {
 /*Clients*/
 
 section#clients {
-	background: url(../images/yourimage.jpg) center center fixed;
+	background: url(../images/pourover.jpg) center center fixed;
 	background-color: #9C8979;
 	-webkit-background-size: cover ;
 	background-size: cover ;
@@ -374,7 +374,7 @@ section#faq .question i {
 /*Footer*/
 
 footer#footer {
-	background: url(../images/yourimage.jpg) center center fixed;
+	background: url(../images/homecafe.jpg) center center fixed;
 	background-color: #27211B;
 	-webkit-background-size: cover ;
 	background-size: cover ;

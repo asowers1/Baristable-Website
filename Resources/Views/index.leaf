@@ -76,15 +76,15 @@
 	<!-- Container -->
 	<div class="container">
 		<div class="seven columns intro-text"> <!-- Intro -->
-			<h2>Make every cup the best cup ever.</h2>
-			<p class="lead">Cafés make the coffee expereince opaque with their complicated terms and systems. Baristable is the anti-café because
-        you learn techniques and methods to make the best cup of cup you've ever had every single day.</p>
-			<blockquote>"I learned that whole bean coffee can cost up to four times less than k-cups in weight."
+			<h2>Coffee is not hard.</h2>
+			<p class="lead">Learn the tecniques baristas use to select quality beans
+      and produce stelar brews.</p>
+			<!-- <blockquote>"I learned that whole bean coffee can cost up to four times less than k-cups in weight."
 			<small>John Doe</small>
 			</blockquote>
 			<blockquote>"I used to think this pour over drip coffee was too complicated, but it turns out that it's really easy and worth the time because of its decadent smoothness."
 			<small>John Kowalski</small>
-			</blockquote>
+			</blockquote> -->
 		</div>
 		<!-- End Intro -->
 		<!-- Booking -->
@@ -93,7 +93,7 @@
 				<i class="fa fa-bullhorn"></i>
 				<h3>Tell me more</h3>
 				<p>We'll let you know when app is available</p>
-				<form action="booking.php" method="post">
+				<form action="newletter" method="post">
                   <input type="email" name="email" placeholder="Email" required>
                   <input type="text" name="name" placeholder="Name" required>
                   <textarea name="suggestions" cols="30" rows="3" placeholder="Tell us about yourself"></textarea>
@@ -119,9 +119,7 @@
 		<!-- List-Services -->
 		<div class="seven columns list-services">
 			<h3>A tool for brewing</h3>
-			<p>Baristable includes utilities for calculating precise weights and measures for
-        the most popular brewing equipment so you can ensure the best cup
-        for the brewing method that suits you.</p>
+			<p>Calculate ratios and select beans for brewing methods that suit you.</p>
 			<ul>
 				<li><i class="fa fa-check"></i>Cold brew</li>
         <li><i class="fa fa-check"></i>French press</li>
